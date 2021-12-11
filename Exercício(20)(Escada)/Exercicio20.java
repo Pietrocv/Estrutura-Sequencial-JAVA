@@ -20,9 +20,9 @@ public class Exercicio20 {
         distancia = input.nextInt();
 
         System.out.println("Escolha o ângulo do triangulo: \n");
-        System.out.println("[30] Graus\n");
-        System.out.println("[45] Graus\n");
-        System.out.println("[60] Graus\n");
+        System.out.println("[1] 30 Graus\n");
+        System.out.println("[2] 45 Graus\n");
+        System.out.println("[3] 60 Graus\n");
         opcao = input.nextInt();
 
         switch (opcao){
