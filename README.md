@@ -1,7 +1,8 @@
 # Estrutura-Sequencial-JAVA
 <div align-"center">
-<img src="https://cdn.discordapp.com/attachments/760604971976359989/918976161386733618/EstruturaSequencial-1.jpg" width"720px" />
-<img src="https://cdn.discordapp.com/attachments/760604971976359989/918976199353593866/EstruturaSequencial-2.jpg" width"720px" />
-<img src="https://cdn.discordapp.com/attachments/760604971976359989/918976199617810452/EstruturaSequencial-3.jpg" width"720px" />
-<img src="https://cdn.discordapp.com/attachments/760604971976359989/918976199882047528/EstruturaSequencial-4.jpg" width"720px" />
+<img src="https://cdn.discordapp.com/attachments/760604971976359989/919296317774250014/Estrutura_Sequencial-1.jpg" width"720px" />
+<img src="https://cdn.discordapp.com/attachments/760604971976359989/919296318055264336/Estrutura_Sequencial-2.jpg" width"720px" />
+<img src="https://cdn.discordapp.com/attachments/760604971976359989/919296318873165824/Estrutura_Sequencial-3.jpg" width"720px" />
+<img src="https://cdn.discordapp.com/attachments/760604971976359989/919296319405846548/Estrutura_Sequencial-4.jpg" width"720px" />
+<img src="https://cdn.discordapp.com/attachments/760604971976359989/919296319749763122/Estrutura_Sequencial-5.jpg" width"720px" />
 </div>
